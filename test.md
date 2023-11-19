@@ -12,7 +12,7 @@ _🌱 I’m currently learning_ ...
 -📫 How to reach me ...
 ##### heading 5
 [visit Google](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.facebook.com%2FASPUJordan%2F&psig=AOvVaw2TJv7Im8InCmPmezcy5hQu&ust=1700471750631000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCMis3Ozqz4IDFQAAAAAdAAAAABAD)_
-###### image in gethub5
+
 
 <!---
 hblebleh/hblebleh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
